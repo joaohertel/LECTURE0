@@ -1,0 +1,12 @@
+h1 {
+    color: darkmagenta;
+
+}
+td, tr {
+    padding: 5px;
+    border:1px solid black;
+}
+table {
+    border-collapse: collapse;
+    border: 2px solid black;
+}
