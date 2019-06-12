@@ -2,7 +2,7 @@ h1 {
     color: darkmagenta;
 
 }
-td, tr {
+td, th {
     padding: 5px;
     border:1px solid black;
 }
